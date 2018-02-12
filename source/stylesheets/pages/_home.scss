@@ -1,6 +1,6 @@
 #home {
-  background-color: #D23333;
-  color: white;
+  background-color: white;
+  color: black;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -10,8 +10,8 @@
     margin-top: 1.5em;
   }
   a {
-    color: rgba(0,0,0,0.4);
+    color: black;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 18px;
   }
 }
